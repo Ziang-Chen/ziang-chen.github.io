@@ -1,0 +1,5 @@
+Copyright 2026 Ziang Chen. All rights reserved.
+
+Original portfolio code, visual assets, models, photographs and design are provided for viewing on the official personal website only. No permission is granted to copy, redistribute, republish, sell, or use them to impersonate the author. Contact the author for other uses.
+
+Third-party components retain their own licenses, as listed in THIRD_PARTY_NOTICES.txt. This notice does not restrict rights granted by those licenses.
